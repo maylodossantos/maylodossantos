@@ -1,6 +1,6 @@
 ## Olá, eu sou o Maylo!
 
-  - 🔭 Atualmente eu trabalho no suporte de uma empresa de integrações.
+  - 🔭 Atualmente eu trabalho no suporte em uma empresa de integrações.
   - 🌱 Estudando Inglês e Java
 
 <div style="display: inline_block"><br>
