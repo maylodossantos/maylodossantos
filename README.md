@@ -1,7 +1,7 @@
 ## Olá, eu sou o Maylo!
 
-  - 🔭 Atualmente eu trabalho no suporte em uma empresa de integrações.
-  - 🌱 Estudando Inglês e Java
+  - 🔭 Atualmente, atuo na área de suporte em uma empresa especializada em integrações.
+  - 🌱 Estou focado em aprimorar minhas habilidades, estudando Inglês e Java para expandir meus conhecimentos e minha atuação profissional.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Maylo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
